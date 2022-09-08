@@ -10,6 +10,7 @@ pipeline {
           echo "This is another change"
           echo "This is the 3rd change"
           echo "This is the 4th change"
+          echo "This is the 5th change"
           ls -lh
           '''
       }
