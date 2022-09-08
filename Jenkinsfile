@@ -8,6 +8,7 @@ pipeline {
           echo "This will list current dir content from latest"
           echo "This is a change"
           echo "This is another change"
+          echo "This is the 3rd change"
           ls -lh
           '''
       }
